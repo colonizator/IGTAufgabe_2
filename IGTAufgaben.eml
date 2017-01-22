@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/IGTAufgaben"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="Hibernate 5.2.3-5.2.3" value="project"/>
+		<level name="src" value="project"/>
+		<level name="mysql:mysql-connector-java:5.1.40" value="project"/>
+		<level name="ojdbc6" value="project"/>
+	</levels>
+</component>

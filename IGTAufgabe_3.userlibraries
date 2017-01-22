@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Hibernate 5.2.3-5.2.3">
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/hibernate-commons-annotations-5.0.1.Final.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/jboss-logging-3.3.0.Final.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/jandex-2.0.0.Final.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/antlr-2.7.7.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/dom4j-1.6.1.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/geronimo-jta_1.1_spec-1.1.1.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/javassist-3.20.0-GA.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/classmate-1.3.0.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/cdi-api-1.1.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/javax.inject-1.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/jsr250-api-1.0.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/el-api-2.2.jar" />
+    <archive path="C:/Users/Mike/IdeaProjects/IGTAufgabe_3/lib/hibernate-core-5.2.3.Final.jar" />
+  </library>
+  <library name="mysql:mysql-connector-java:5.1.40">
+    <archive path="C:/Users/Mike/.m2/repository/mysql/mysql-connector-java/5.1.40/mysql-connector-java-5.1.40.jar" />
+  </library>
+  <library name="ojdbc6">
+    <archive path="C:/Users/Mike/Downloads/ojdbc6.jar" />
+  </library>
+  <library name="src" />
+</eclipse-userlibraries>
+
